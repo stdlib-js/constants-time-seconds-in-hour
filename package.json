@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-time-seconds-in-hour",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Number of seconds in an hour.",
   "license": "Apache-2.0",
   "author": {
