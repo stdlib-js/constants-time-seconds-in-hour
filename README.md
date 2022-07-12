@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import SECONDS_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-seconds-in-hour@deno/mod.js';
+import SECONDS_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-seconds-in-hour@v0.0.8-deno/mod.js';
 ```
 
 #### SECONDS_IN_HOUR
@@ -66,7 +66,7 @@ var bool = ( SECONDS_IN_HOUR === 3600 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundn@deno/mod.js';
-import SECONDS_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-seconds-in-hour@deno/mod.js';
+import SECONDS_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-seconds-in-hour@v0.0.8-deno/mod.js';
 
 var secs;
 var hrs;
