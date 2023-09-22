@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import SECONDS_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-seconds-in-hour@esm/index.mjs';
+import SECONDS_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-seconds-in-hour@v0.2.0-esm/index.mjs';
 ```
 
 #### SECONDS_IN_HOUR
@@ -82,7 +82,7 @@ var bool = ( SECONDS_IN_HOUR === 3600 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundn@esm/index.mjs';
-import SECONDS_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-seconds-in-hour@esm/index.mjs';
+import SECONDS_IN_HOUR from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-seconds-in-hour@v0.2.0-esm/index.mjs';
 
 var secs;
 var hrs;
